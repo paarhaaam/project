@@ -1,0 +1,32 @@
+.bio-container {
+ width: 75%;
+ border-radius: 10px;
+ margin: 50px;
+ margin-top: 70px;
+ display: flex;
+ justify-content: space-between ;
+ background-color: #010101;
+ position: relative;
+ top: 10px;
+ left: 10%;
+}
+
+.bio-image {
+    width: 50%;
+    border-radius: 2px;
+}
+
+.bio {
+    margin-right: 15px;
+    margin-top: 15px;
+    width: 900px;
+    border-radius: 2px;
+    color: whitesmoke;
+    text-align: right;
+    line-height: 50px;
+    font-weight: 600;
+}
+.linkp {
+    color: #e0aa3e;
+}
+

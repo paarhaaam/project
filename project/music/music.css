@@ -1,0 +1,29 @@
+.card {
+    width: 350px;
+    background-color: #242424;
+    color: #e0aa3e;
+}
+.row {
+    position: relative;
+    top: 30px;
+    left: 100px;
+    width: 1400px;
+}
+ .col.mb-4 {
+     padding: 0px !important;
+     width: 350px !important;
+ }
+ .card-text {
+    text-align: right;
+    color: whitesmoke;
+ }
+
+.mlink {
+    color: #e0aa3e;
+}
+.mlink:hover {
+    color: #e0aa3e;
+}
+.mlink:active {
+    color: whitesmoke;
+}

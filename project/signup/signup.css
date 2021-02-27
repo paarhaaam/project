@@ -1,0 +1,23 @@
+.loginform {
+    width: 50%;
+    border-radius: 30px;
+    background-color: #010101;
+    position: relative;
+    left: 25%;
+    top: 150px;
+    color: #e0aa3e;
+}
+.formlogin {
+    padding: 20px;
+}
+
+.btnlog {
+    background-color: #e0aa3e !important;
+    color: #010101 !important;
+    width: 100PX;
+    border: 2px solid #010101;
+}
+
+.btnlog:hover {
+    border: 2px solid #010101;
+}
